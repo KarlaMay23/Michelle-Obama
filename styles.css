@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+section{
+  background-color: lightgray;
+
+}
+.info{
+  display: inline-block;
+  width:70%;
+}
+.profile-pic{
+  display: inline-block;
+}
+.pic{
+  width: 200px;
+  height:200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
